@@ -17,7 +17,7 @@ Diseñada en Venezuela por el facilitador **Ismael Rodríguez (Fundación Infoce
 
 | Render General Ensamblado | Enrutado Top Copper (.GTL) | Rayos X (Cobre + Plano GND) |
 | :---: | :---: | :---: |
-| ![ChamoMaker Render](ChamoMaker_preview.svg) | ![Top Copper](copper_top_view.svg) | ![X-Ray View](copper_xray_view.svg) |
+| ![ChamoMaker 3D Render](ChamoMaker_render_original.jpg) | ![Top Copper](copper_top_view.svg) | ![X-Ray View](copper_xray_view.svg) |
 
 ---
 
