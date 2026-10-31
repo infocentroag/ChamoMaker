@@ -17,7 +17,7 @@ Diseñada en Venezuela por el facilitador **Ismael Rodríguez (la comunidad Orig
 
 | Origenbotics KIT v2.0 SMT (ESP32 Soldado) | Render de Referencia | Enrutado Top Copper (.GTL) |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/infocentroag/ChamoMaker/main/Origenbotics_KIT_v2_SMT_Oficial.jpg" width="400" alt="Origenbotics KIT v2.0 SMT" /> | <img src="https://raw.githubusercontent.com/infocentroag/ChamoMaker/main/ChamoMaker_render_original.jpg" width="350" /> | <img src="https://raw.githubusercontent.com/infocentroag/ChamoMaker/main/copper_top_view.svg" width="280" /> |
+| <img src="https://raw.githubusercontent.com/infocentroag/ChamoMaker/main/Origenbotics_KIT_ESP32_Integrado_Perfecto.jpg" width="400" alt="Origenbotics KIT v2.0 SMT" /> | <img src="https://raw.githubusercontent.com/infocentroag/ChamoMaker/main/ChamoMaker_render_original.jpg" width="350" /> | <img src="https://raw.githubusercontent.com/infocentroag/ChamoMaker/main/copper_top_view.svg" width="280" /> |
 
 ---
 
