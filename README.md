@@ -17,7 +17,7 @@ Diseñada en Venezuela por el facilitador **Ismael Rodríguez (la comunidad Orig
 
 | ChamoMaker Ultimate STEM Edition | Render de Referencia | Enrutado Top Copper (.GTL) |
 | :---: | :---: | :---: |
-| ![ChamoMaker Ultimate](ChamoMaker_Ultimate_preview.svg) | ![ChamoMaker Reference](ChamoMaker_render_original.jpg) | ![Top Copper](copper_top_view.svg) |
+| <img src="https://raw.githubusercontent.com/infocentroag/ChamoMaker/main/ChamoMaker_Ultimate_preview.svg" width="350" /> | <img src="https://raw.githubusercontent.com/infocentroag/ChamoMaker/main/ChamoMaker_render_original.jpg" width="350" /> | <img src="https://raw.githubusercontent.com/infocentroag/ChamoMaker/main/copper_top_view.svg" width="280" /> |
 
 ---
 
