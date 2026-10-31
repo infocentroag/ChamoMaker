@@ -15,9 +15,9 @@ Diseñada en Venezuela por el facilitador **Ismael Rodríguez (la comunidad Orig
 
 ## 📸 Renders e Inspección de Pistas de Cobre
 
-| ChamoMaker v2.0 SMT (All-In-One) | Render Original 3D | Enrutado Top Copper (.GTL) |
+| ChamoMaker Ultimate STEM Edition | Render de Referencia | Enrutado Top Copper (.GTL) |
 | :---: | :---: | :---: |
-| ![ChamoMaker v2 SMT](ChamoMaker_v2_preview.svg) | ![ChamoMaker 3D Render](ChamoMaker_render_original.jpg) | ![Top Copper](copper_top_view.svg) |
+| ![ChamoMaker Ultimate](ChamoMaker_Ultimate_preview.svg) | ![ChamoMaker Reference](ChamoMaker_render_original.jpg) | ![Top Copper](copper_top_view.svg) |
 
 ---
 
