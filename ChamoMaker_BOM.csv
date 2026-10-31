@@ -1,25 +1,29 @@
 Item #,Designator,Quantity,Value,Package / Footprint,Type,Description,LCSC Part #
-1,"J_ESP1, J_ESP2",2,1x15 Female Header 2.54mm,PinHeader_1x15_P2.54mm,Connector,Socket for 30-pin ESP32 DevKit,C22549
-2,"J_OLED, J_SONAR",2,1x4 Female Header 2.54mm,PinHeader_1x04_P2.54mm,Connector,Header for 0.96 inch I2C OLED display,C22545
-3,"R_EC1, R_PWR",2,1k,0805,SMD Resistor/Capacitor,Echo protection resistor,C17513
-4,R_EC2,1,2k,0805,SMD Resistor/Capacitor,Echo protection pull-down,C17540
-5,U2,1,TC1508S / MX1508,SOP-16,IC Motor Driver,Dual H-Bridge DC Motor Driver 1.5A,C2913210
-6,"TB_M1, TB_M2, TB_VMOT",3,Screw Terminal 2-Pin 5.08mm,TerminalBlock_2P_P5.08mm,Connector,Screw terminal blocks for motors and motor power,C8465
-7,J_SERVO,1,1x3 Male Header 2.54mm,PinHeader_1x03_P2.54mm,Connector,SG90 Servo Connector,C124375
-8,BZ1,1,Piezo Buzzer 9.5mm,Buzzer_9.5mm_THT,Audio,Passive/Active Buzzer on GPIO19,C268997
-9,RV1,1,10k Trimmer / Potentiometer,Potentiometer_Trimmer,Passive,10k analog pot on ADC1 VP,C2857034
-10,"R_LDR, R_TLT",2,10k,0805,SMD Resistor/Capacitor,LDR pull-down,C17414
-11,LDR1,1,LDR 5mm,LDR_5mm_THT,Sensor,Light Dependent Resistor,C477840
-12,MIC1,1,Electret Microphone 9x7mm,Mic_Electret_THT,Sensor,Sound detector on GPIO 35,C12850
-13,SW_TILT,1,SW-520D Tilt Ball Switch,Tilt_SW520D_THT,Sensor,Vibration/tilt switch,C136015
-14,"SW1, SW2",2,Tactile Switch 6x6mm,SW_Push_6x6mm_THT,Switch,Tactile pushbuttons for user input,C127509
-15,C_RGB,1,100nF,0805,SMD Resistor/Capacitor,Decoupling cap for WS2812B,C28233
-16,LED_RGB,1,WS2812B-B,LED_SMD_5050,Opto,Addressable RGB LED on GPIO23,C114586
-17,"R_GRN, R_RED",2,330R,0805,SMD Resistor/Capacitor,Current limiting for Red LED,C17630
-18,"LED_ROJO, LED_VERDE",2,LED 3mm / 5mm THT,LED_D3.0mm,Opto,Status LEDs,C2286
-19,"R_CC1, R_CC2",2,5.1k,0805,SMD Resistor/Capacitor,USB-C CC1 pulldown,C23186
-20,J_USBC,1,USB-C Female 16P/6P SMT,USB_C_Receptacle,Connector,USB-C Power Input,C2765186
-21,J_BAT,1,JST-XH 2-Pin 2.54mm,JST_XH_B2B-XH-A_1x02_P2.50mm,Connector,Battery connector,C158019
-22,SW_PWR,1,Slide Switch SPDT,Switch_Slide_1P2T,Switch,Main power switch,C318884
-23,D_SCH,1,SS34 (3A),0805,SMD Resistor/Capacitor,Schottky reverse protection diode,C8678
-24,LED_PWR,1,AZUL,0805,SMD Resistor/Capacitor,Power indicator LED,C2293
+1,U1,1,ESP32-WROOM-32E (16MB),SMD_Module_18x25.5mm,MCU,Dual-Core 240MHz Wi-Fi & Bluetooth MCU,C701341
+2,U3,1,CH340C,SOP-16,Interface IC,USB to Serial Converter with internal clock,C84683
+3,"Q1, Q2",2,S8050 (J3Y),SOT-23,Transistor,Auto-reset/boot NPN transistor,C2146
+4,U4,1,AMS1117-3.3,SOT-223,Power LDO,1A 3.3V Linear Voltage Regulator,C6186
+5,"C_IN, C_OUT",2,10uF,0805,SMD Resistor/Capacitor,Regulator input filter,C15850
+6,"J_OLED, J_SONAR",2,1x4 Female Header 2.54mm,PinHeader_1x04_P2.54mm,Connector,Header for 0.96 inch I2C OLED display,C22545
+7,"R_EC1, R_PWR",2,1k,0805,SMD Resistor/Capacitor,Echo protection resistor,C17513
+8,R_EC2,1,2k,0805,SMD Resistor/Capacitor,Echo protection pull-down,C17540
+9,U2,1,TC1508S / MX1508,SOP-16,IC Motor Driver,Dual H-Bridge DC Motor Driver 1.5A,C2913210
+10,"TB_M1, TB_M2, TB_VMOT",3,Screw Terminal 2-Pin 5.08mm,TerminalBlock_2P_P5.08mm,Connector,Screw terminal blocks for motors and motor power,C8465
+11,J_SERVO,1,1x3 Male Header 2.54mm,PinHeader_1x03_P2.54mm,Connector,SG90 Servo Connector,C124375
+12,BZ1,1,Piezo Buzzer 9.5mm,Buzzer_9.5mm_THT,Audio,Passive Buzzer on GPIO19,C268997
+13,RV1,1,10k Trimmer / Potentiometer,Potentiometer_Trimmer,Passive,10k analog pot on ADC1 VP,C2857034
+14,"R_LDR, R_TLT",2,10k,0805,SMD Resistor/Capacitor,LDR pull-down,C17414
+15,LDR1,1,LDR 5mm,LDR_5mm_THT,Sensor,Light Dependent Resistor,C477840
+16,MIC1,1,Electret Microphone 9x7mm,Mic_Electret_THT,Sensor,Sound detector on GPIO 35,C12850
+17,SW_TILT,1,SW-520D Tilt Ball Switch,Tilt_SW520D_THT,Sensor,Vibration/tilt switch,C136015
+18,"SW1, SW2",2,Tactile Switch 6x6mm,SW_Push_6x6mm_THT,Switch,Tactile pushbuttons,C127509
+19,C_RGB,1,100nF,0805,SMD Resistor/Capacitor,Decoupling cap for WS2812B,C28233
+20,LED_RGB,1,WS2812B-B,LED_SMD_5050,Opto,Addressable RGB LED on GPIO23,C114586
+21,"R_GRN, R_RED",2,330R,0805,SMD Resistor/Capacitor,Current limiting for Red LED,C17630
+22,"LED_ROJO, LED_VERDE",2,LED 3mm THT,LED_D3.0mm,Opto,Status LEDs,C2286
+23,"R_CC1, R_CC2",2,5.1k,0805,SMD Resistor/Capacitor,USB-C CC1 pulldown,C23186
+24,J_USBC,1,USB-C Female 16P SMT,USB_C_Receptacle,Connector,USB-C Programming & Power,C2765186
+25,J_BAT,1,JST-XH 2-Pin 2.54mm,JST_XH_B2B-XH-A_1x02_P2.50mm,Connector,Battery connector,C158019
+26,SW_PWR,1,Slide Switch SPDT,Switch_Slide_1P2T,Switch,Main power switch,C318884
+27,D_SCH,1,SS34 (3A),0805,SMD Resistor/Capacitor,Schottky reverse protection diode,C8678
+28,LED_PWR,1,AZUL,0805,SMD Resistor/Capacitor,Power indicator LED,C2293
