@@ -2,6 +2,8 @@
 
 [![Hardware License](https://img.shields.io/badge/License-CERN--OHL--P-blue.svg)](https://cern.ch/cern-ohl)
 [![Sponsorship](https://img.shields.io/badge/Supported%20By-PCBWay-green.svg)](https://www.pcbway.com)
+[![Web Autana](https://img.shields.io/badge/Web-Autana%20Infocentro-00bcd4.svg)](https://infocentroaguascalientes.com/autana/)
+[![TikTok Origenbotics](https://img.shields.io/badge/TikTok-@origenbotics-ff0050.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@origenbotics)
 [![Organization](https://img.shields.io/badge/Fundaci%C3%B3n-Infocentro%20Venezuela-orange.svg)](https://www.infocentro.gob.ve)
 [![MCU](https://img.shields.io/badge/Core-ESP32%20WROOM-red.svg)](https://espressif.com)
 
@@ -125,6 +127,16 @@ La serigrafía frontal de la placa incluye el reconocimiento:
 **`SUPPORTED BY PCBWay`**
 
 ---
+
+
+---
+
+## 🌐 Enlaces Oficiales y Comunidad
+
+- 🌐 **Plataforma Web del Proyecto:** [infocentroaguascalientes.com/autana](https://infocentroaguascalientes.com/autana/)
+- 📱 **TikTok Oficial (Robótica y Talleres):** [@origenbotics](https://www.tiktok.com/@origenbotics)
+- 🏛️ **Institución Promotora:** Fundación Infocentro (Venezuela)
+- 🛠️ **Facilitador / Diseñador:** Ismael Rodríguez
 
 ## 📄 Licencia
 
