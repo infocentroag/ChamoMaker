@@ -1,0 +1,393 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000" style="background:#0a0e14; font-family:'Segoe UI', Roboto, Arial, sans-serif;">
+  <defs>
+    <linearGradient id="pcbGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f3460"/>
+      <stop offset="50%" stop-color="#0c2647"/>
+      <stop offset="100%" stop-color="#08182f"/>
+    </linearGradient>
+    <linearGradient id="goldPad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffe082"/>
+      <stop offset="50%" stop-color="#ffb300"/>
+      <stop offset="100%" stop-color="#ff8f00"/>
+    </linearGradient>
+    <linearGradient id="rfShield" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e0e0e0"/>
+      <stop offset="30%" stop-color="#ffffff"/>
+      <stop offset="70%" stop-color="#b0bec5"/>
+      <stop offset="100%" stop-color="#78909c"/>
+    </linearGradient>
+    <linearGradient id="relayGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#29b6f6"/>
+      <stop offset="100%" stop-color="#0288d1"/>
+    </linearGradient>
+    <linearGradient id="segGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#212121"/>
+      <stop offset="100%" stop-color="#050505"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="16" stdDeviation="24" flood-color="#000000" flood-opacity="0.7"/>
+    </filter>
+  </defs>
+  <!-- FR4 Substrate with 3mm rounded corners -->
+  <rect x="0" y="0" width="1000" height="1000" rx="30" ry="30" fill="url(#pcbGrad)" stroke="#1976d2" stroke-width="3" filter="url(#shadow)"/>
+  <g stroke="#1565c0" stroke-width="2.5" opacity="0.3">
+    <line x1="40" y1="40" x2="960" y2="40"/>
+    <line x1="40" y1="75" x2="960" y2="75"/>
+    <line x1="40" y1="110" x2="960" y2="110"/>
+    <line x1="40" y1="145" x2="960" y2="145"/>
+    <line x1="40" y1="180" x2="960" y2="180"/>
+    <line x1="40" y1="215" x2="960" y2="215"/>
+    <line x1="40" y1="250" x2="960" y2="250"/>
+    <line x1="40" y1="285" x2="960" y2="285"/>
+    <line x1="40" y1="320" x2="960" y2="320"/>
+    <line x1="40" y1="355" x2="960" y2="355"/>
+    <line x1="40" y1="390" x2="960" y2="390"/>
+    <line x1="40" y1="425" x2="960" y2="425"/>
+    <line x1="40" y1="460" x2="960" y2="460"/>
+    <line x1="40" y1="495" x2="960" y2="495"/>
+    <line x1="40" y1="530" x2="960" y2="530"/>
+    <line x1="40" y1="565" x2="960" y2="565"/>
+    <line x1="40" y1="600" x2="960" y2="600"/>
+    <line x1="40" y1="635" x2="960" y2="635"/>
+    <line x1="40" y1="670" x2="960" y2="670"/>
+    <line x1="40" y1="705" x2="960" y2="705"/>
+    <line x1="40" y1="740" x2="960" y2="740"/>
+    <line x1="40" y1="775" x2="960" y2="775"/>
+    <line x1="40" y1="810" x2="960" y2="810"/>
+    <line x1="40" y1="845" x2="960" y2="845"/>
+    <line x1="40" y1="880" x2="960" y2="880"/>
+    <line x1="40" y1="915" x2="960" y2="915"/>
+    <line x1="40" y1="950" x2="960" y2="950"/>
+    <line x1="40" y1="40" x2="40" y2="960"/>
+    <line x1="75" y1="40" x2="75" y2="960"/>
+    <line x1="110" y1="40" x2="110" y2="960"/>
+    <line x1="145" y1="40" x2="145" y2="960"/>
+    <line x1="180" y1="40" x2="180" y2="960"/>
+    <line x1="215" y1="40" x2="215" y2="960"/>
+    <line x1="250" y1="40" x2="250" y2="960"/>
+    <line x1="285" y1="40" x2="285" y2="960"/>
+    <line x1="320" y1="40" x2="320" y2="960"/>
+    <line x1="355" y1="40" x2="355" y2="960"/>
+    <line x1="390" y1="40" x2="390" y2="960"/>
+    <line x1="425" y1="40" x2="425" y2="960"/>
+    <line x1="460" y1="40" x2="460" y2="960"/>
+    <line x1="495" y1="40" x2="495" y2="960"/>
+    <line x1="530" y1="40" x2="530" y2="960"/>
+    <line x1="565" y1="40" x2="565" y2="960"/>
+    <line x1="600" y1="40" x2="600" y2="960"/>
+    <line x1="635" y1="40" x2="635" y2="960"/>
+    <line x1="670" y1="40" x2="670" y2="960"/>
+    <line x1="705" y1="40" x2="705" y2="960"/>
+    <line x1="740" y1="40" x2="740" y2="960"/>
+    <line x1="775" y1="40" x2="775" y2="960"/>
+    <line x1="810" y1="40" x2="810" y2="960"/>
+    <line x1="845" y1="40" x2="845" y2="960"/>
+    <line x1="880" y1="40" x2="880" y2="960"/>
+    <line x1="915" y1="40" x2="915" y2="960"/>
+    <line x1="950" y1="40" x2="950" y2="960"/>
+    <polyline points="570,430 700,430 750,480 910,480" stroke-width="4" stroke="#ffb74d"/>
+    <polyline points="470,680 470,780 500,810 500,860" stroke-width="3" stroke="#81d4fa"/>
+    <polyline points="330,760 330,860" stroke-width="3" stroke="#81d4fa"/>
+    <polyline points="880,180 880,360" stroke-width="4" stroke="#ff8a65"/>
+  </g>
+  <circle cx="45" cy="45" r="28" fill="url(#goldPad)"/>
+  <circle cx="45" cy="45" r="15" fill="#0a0e14"/>
+  <circle cx="45" cy="45" r="34" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-dasharray="4,4"/>
+  <circle cx="955" cy="45" r="28" fill="url(#goldPad)"/>
+  <circle cx="955" cy="45" r="15" fill="#0a0e14"/>
+  <circle cx="955" cy="45" r="34" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-dasharray="4,4"/>
+  <circle cx="45" cy="955" r="28" fill="url(#goldPad)"/>
+  <circle cx="45" cy="955" r="15" fill="#0a0e14"/>
+  <circle cx="45" cy="955" r="34" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-dasharray="4,4"/>
+  <circle cx="955" cy="955" r="28" fill="url(#goldPad)"/>
+  <circle cx="955" cy="955" r="15" fill="#0a0e14"/>
+  <circle cx="955" cy="955" r="34" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-dasharray="4,4"/>
+  <g fill="#ffffff" text-anchor="middle">
+    <text x="500" y="38" font-size="26" font-weight="900" letter-spacing="3">CHAMOMAKER ULTIMATE</text>
+    <text x="500" y="60" font-size="13" font-weight="600" letter-spacing="1.5" fill="#81d4fa">ALL-IN-ONE EDUCATIONAL STEM ROBOTICS &amp; IOT</text>
+    <text x="500" y="80" font-size="12" font-weight="500" letter-spacing="1" fill="#a5d6a7">ORIGENBOTICS &bull; VENEZUELA</text>
+    <rect x="240" y="945" width="520" height="42" rx="6" fill="#000000" fill-opacity="0.4" stroke="#4caf50" stroke-width="2"/>
+    <text x="500" y="972" font-size="19" font-weight="900" letter-spacing="2" fill="#4caf50">SUPPORTED BY PCBWay</text>
+  </g>
+  <!-- ESP32-WROOM-32E Integrated Module -->
+  <g id="ESP32_Core">
+    <rect x="520" y="360" width="150" height="210" rx="4" fill="#1b1b1b" stroke="#333" stroke-width="2"/>
+    <rect x="520" y="360" width="150" height="42" rx="3" fill="#111"/>
+    <polyline points="535,380 550,380 555,390 565,390 570,380 580,380 585,390 595,390 600,380 610,380 615,390 625,390 630,380 650,380" stroke="#ffb300" stroke-width="2.5" fill="none"/>
+    <rect x="525" y="406" width="140" height="158" rx="4" fill="url(#rfShield)" stroke="#607d8b" stroke-width="1.5"/>
+    <text x="590" y="455" font-size="14" font-weight="900" fill="#263238" text-anchor="middle">ESP-WROOM-32E</text>
+    <text x="590" y="475" font-size="11" font-weight="bold" fill="#37474f" text-anchor="middle">16MB FLASH / WIFI+BT</text>
+    <text x="590" y="495" font-size="10" fill="#455a64" text-anchor="middle">FCC ID: 2AC7Z-ESPWROOM32</text>
+    <text x="590" y="515" font-size="10" font-weight="bold" fill="#00796b" text-anchor="middle">ORIGENBOTICS v2</text>
+    <rect x="514" y="412.0" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="664" y="412.0" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="514" y="422.5" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="664" y="422.5" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="514" y="433.0" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="664" y="433.0" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="514" y="443.5" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="664" y="443.5" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="514" y="454.0" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="664" y="454.0" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="514" y="464.5" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="664" y="464.5" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="514" y="475.0" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="664" y="475.0" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="514" y="485.5" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="664" y="485.5" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="514" y="496.0" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="664" y="496.0" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="514" y="506.5" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="664" y="506.5" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="514" y="517.0" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="664" y="517.0" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="514" y="527.5" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="664" y="527.5" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="514" y="538.0" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="664" y="538.0" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="514" y="548.5" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+    <rect x="664" y="548.5" width="12" height="6.5" rx="1.5" fill="url(#goldPad)"/>
+  </g>
+  <!-- USB-C & Flashing Circuit -->
+  <g id="USB_Flashing">
+    <rect x="870" y="350" width="75" height="60" rx="8" fill="#b0bec5" stroke="#37474f" stroke-width="2.5"/>
+    <rect x="882" y="367" width="52" height="24" rx="9" fill="#212121"/>
+    <text x="908" y="340" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">USB-C PROG</text>
+    <rect x="740" y="270" width="40" height="95" rx="3" fill="#212121" stroke="#555" stroke-width="1.2"/>
+    <text x="760" y="322" font-size="10" font-weight="bold" fill="#ffffff" text-anchor="middle" transform="rotate(-90 760 322)">CH340C</text>
+    <rect x="728" y="278" width="12" height="5" fill="url(#goldPad)"/>
+    <rect x="780" y="278" width="12" height="5" fill="url(#goldPad)"/>
+    <rect x="728" y="288" width="12" height="5" fill="url(#goldPad)"/>
+    <rect x="780" y="288" width="12" height="5" fill="url(#goldPad)"/>
+    <rect x="728" y="298" width="12" height="5" fill="url(#goldPad)"/>
+    <rect x="780" y="298" width="12" height="5" fill="url(#goldPad)"/>
+    <rect x="728" y="308" width="12" height="5" fill="url(#goldPad)"/>
+    <rect x="780" y="308" width="12" height="5" fill="url(#goldPad)"/>
+    <rect x="728" y="318" width="12" height="5" fill="url(#goldPad)"/>
+    <rect x="780" y="318" width="12" height="5" fill="url(#goldPad)"/>
+    <rect x="728" y="328" width="12" height="5" fill="url(#goldPad)"/>
+    <rect x="780" y="328" width="12" height="5" fill="url(#goldPad)"/>
+    <rect x="728" y="338" width="12" height="5" fill="url(#goldPad)"/>
+    <rect x="780" y="338" width="12" height="5" fill="url(#goldPad)"/>
+    <rect x="728" y="348" width="12" height="5" fill="url(#goldPad)"/>
+    <rect x="780" y="348" width="12" height="5" fill="url(#goldPad)"/>
+    <rect x="880" y="425" width="36" height="30" rx="3" fill="#424242" stroke="#fff" stroke-width="1.5"/>
+    <circle cx="898" cy="440" r="8" fill="#e0e0e0"/>
+    <text x="898" y="465" font-size="9" font-weight="bold" fill="#81d4fa" text-anchor="middle">BOOT</text>
+    <rect x="880" y="485" width="36" height="30" rx="3" fill="#424242" stroke="#fff" stroke-width="1.5"/>
+    <circle cx="898" cy="500" r="8" fill="#e0e0e0"/>
+    <text x="898" y="525" font-size="9" font-weight="bold" fill="#81d4fa" text-anchor="middle">EN (RESET)</text>
+  </g>
+  <!-- 4-Digit 7-Segment Display -->
+  <g id="SevenSegment">
+    <rect x="235" y="195" width="220" height="95" rx="5" fill="url(#segGrad)" stroke="#616161" stroke-width="2"/>
+    <rect x="245" y="205" width="200" height="75" rx="3" fill="#000000"/>
+    <g stroke="#ff1744" stroke-width="3.5" stroke-linecap="round" fill="none">
+      <line x1="265" y1="218" x2="285" y2="218"/>
+      <line x1="287" y1="220" x2="287" y2="238"/>
+      <line x1="287" y1="244" x2="287" y2="262"/>
+      <line x1="265" y1="264" x2="285" y2="264"/>
+      <line x1="263" y1="244" x2="263" y2="262"/>
+      <line x1="263" y1="220" x2="263" y2="238"/>
+      <line x1="265" y1="241" x2="285" y2="241"/>
+    </g>
+    <g stroke="#ff1744" stroke-width="3.5" stroke-linecap="round" fill="none">
+      <line x1="310" y1="218" x2="330" y2="218"/>
+      <line x1="332" y1="220" x2="332" y2="238"/>
+      <line x1="332" y1="244" x2="332" y2="262"/>
+      <line x1="310" y1="264" x2="330" y2="264"/>
+      <line x1="308" y1="244" x2="308" y2="262"/>
+      <line x1="308" y1="220" x2="308" y2="238"/>
+      <line x1="310" y1="241" x2="330" y2="241"/>
+    </g>
+    <g stroke="#ff1744" stroke-width="3.5" stroke-linecap="round" fill="none">
+      <line x1="360" y1="218" x2="380" y2="218"/>
+      <line x1="382" y1="220" x2="382" y2="238"/>
+      <line x1="382" y1="244" x2="382" y2="262"/>
+      <line x1="360" y1="264" x2="380" y2="264"/>
+      <line x1="358" y1="244" x2="358" y2="262"/>
+      <line x1="358" y1="220" x2="358" y2="238"/>
+      <line x1="360" y1="241" x2="380" y2="241"/>
+    </g>
+    <g stroke="#ff1744" stroke-width="3.5" stroke-linecap="round" fill="none">
+      <line x1="405" y1="218" x2="425" y2="218"/>
+      <line x1="427" y1="220" x2="427" y2="238"/>
+      <line x1="427" y1="244" x2="427" y2="262"/>
+      <line x1="405" y1="264" x2="425" y2="264"/>
+      <line x1="403" y1="244" x2="403" y2="262"/>
+      <line x1="403" y1="220" x2="403" y2="238"/>
+      <line x1="405" y1="241" x2="425" y2="241"/>
+    </g>
+    <circle cx="340" cy="232" r="2.5" fill="#ff1744"/>
+    <circle cx="340" cy="250" r="2.5" fill="#ff1744"/>
+    <rect x="465" y="220" width="40" height="75" rx="2" fill="#212121" stroke="#555"/>
+    <text x="485" y="260" font-size="9" fill="#fff" text-anchor="middle" transform="rotate(-90 485 260)">TM1637</text>
+    <text x="345" y="306" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">DISPLAY 7-SEGMENTOS (4 DIGITOS)</text>
+  </g>
+  <!-- 4x4 WS2812B RGB NeoPixel Matrix -->
+  <g id="RGB_Matrix">
+    <rect x="235" y="340" width="220" height="220" rx="8" fill="#000" fill-opacity="0.3" stroke="#e91e63" stroke-width="2"/>
+    <text x="345" y="332" font-size="12" font-weight="bold" fill="#ff4081" text-anchor="middle">MATRIZ 16 LEDS RGB (4x4)</text>
+    <rect x="248" y="353" width="34" height="34" rx="4" fill="#ffffff" stroke="#999" stroke-width="1.5"/>
+    <circle cx="265" cy="370" r="11" fill="#ff1744"/>
+    <circle cx="265" cy="370" r="5" fill="#ffffff" opacity="0.6"/>
+    <rect x="296" y="353" width="34" height="34" rx="4" fill="#ffffff" stroke="#999" stroke-width="1.5"/>
+    <circle cx="313" cy="370" r="11" fill="#ff5252"/>
+    <circle cx="313" cy="370" r="5" fill="#ffffff" opacity="0.6"/>
+    <rect x="344" y="353" width="34" height="34" rx="4" fill="#ffffff" stroke="#999" stroke-width="1.5"/>
+    <circle cx="361" cy="370" r="11" fill="#ff9100"/>
+    <circle cx="361" cy="370" r="5" fill="#ffffff" opacity="0.6"/>
+    <rect x="392" y="353" width="34" height="34" rx="4" fill="#ffffff" stroke="#999" stroke-width="1.5"/>
+    <circle cx="409" cy="370" r="11" fill="#ffd600"/>
+    <circle cx="409" cy="370" r="5" fill="#ffffff" opacity="0.6"/>
+    <rect x="248" y="401" width="34" height="34" rx="4" fill="#ffffff" stroke="#999" stroke-width="1.5"/>
+    <circle cx="265" cy="418" r="11" fill="#00e676"/>
+    <circle cx="265" cy="418" r="5" fill="#ffffff" opacity="0.6"/>
+    <rect x="296" y="401" width="34" height="34" rx="4" fill="#ffffff" stroke="#999" stroke-width="1.5"/>
+    <circle cx="313" cy="418" r="11" fill="#00e5ff"/>
+    <circle cx="313" cy="418" r="5" fill="#ffffff" opacity="0.6"/>
+    <rect x="344" y="401" width="34" height="34" rx="4" fill="#ffffff" stroke="#999" stroke-width="1.5"/>
+    <circle cx="361" cy="418" r="11" fill="#2979ff"/>
+    <circle cx="361" cy="418" r="5" fill="#ffffff" opacity="0.6"/>
+    <rect x="392" y="401" width="34" height="34" rx="4" fill="#ffffff" stroke="#999" stroke-width="1.5"/>
+    <circle cx="409" cy="418" r="11" fill="#651fff"/>
+    <circle cx="409" cy="418" r="5" fill="#ffffff" opacity="0.6"/>
+    <rect x="248" y="449" width="34" height="34" rx="4" fill="#ffffff" stroke="#999" stroke-width="1.5"/>
+    <circle cx="265" cy="466" r="11" fill="#d500f9"/>
+    <circle cx="265" cy="466" r="5" fill="#ffffff" opacity="0.6"/>
+    <rect x="296" y="449" width="34" height="34" rx="4" fill="#ffffff" stroke="#999" stroke-width="1.5"/>
+    <circle cx="313" cy="466" r="11" fill="#f50057"/>
+    <circle cx="313" cy="466" r="5" fill="#ffffff" opacity="0.6"/>
+    <rect x="344" y="449" width="34" height="34" rx="4" fill="#ffffff" stroke="#999" stroke-width="1.5"/>
+    <circle cx="361" cy="466" r="11" fill="#ff1744"/>
+    <circle cx="361" cy="466" r="5" fill="#ffffff" opacity="0.6"/>
+    <rect x="392" y="449" width="34" height="34" rx="4" fill="#ffffff" stroke="#999" stroke-width="1.5"/>
+    <circle cx="409" cy="466" r="11" fill="#00e676"/>
+    <circle cx="409" cy="466" r="5" fill="#ffffff" opacity="0.6"/>
+    <rect x="248" y="497" width="34" height="34" rx="4" fill="#ffffff" stroke="#999" stroke-width="1.5"/>
+    <circle cx="265" cy="514" r="11" fill="#ffd600"/>
+    <circle cx="265" cy="514" r="5" fill="#ffffff" opacity="0.6"/>
+    <rect x="296" y="497" width="34" height="34" rx="4" fill="#ffffff" stroke="#999" stroke-width="1.5"/>
+    <circle cx="313" cy="514" r="11" fill="#00e5ff"/>
+    <circle cx="313" cy="514" r="5" fill="#ffffff" opacity="0.6"/>
+    <rect x="344" y="497" width="34" height="34" rx="4" fill="#ffffff" stroke="#999" stroke-width="1.5"/>
+    <circle cx="361" cy="514" r="11" fill="#2979ff"/>
+    <circle cx="361" cy="514" r="5" fill="#ffffff" opacity="0.6"/>
+    <rect x="392" y="497" width="34" height="34" rx="4" fill="#ffffff" stroke="#999" stroke-width="1.5"/>
+    <circle cx="409" cy="514" r="11" fill="#ffffff"/>
+    <circle cx="409" cy="514" r="5" fill="#ffffff" opacity="0.6"/>
+  </g>
+  <!-- OLED 0.96 Display -->
+  <g id="OLED">
+    <rect x="475" y="630" width="210" height="200" rx="6" fill="#1565c0" stroke="#fff" stroke-width="2"/>
+    <rect x="488" y="665" width="184" height="130" rx="3" fill="#040c1a" stroke="#455a64" stroke-width="1.5"/>
+    <text x="580" y="700" font-size="14" font-family="monospace" font-weight="bold" fill="#00e5ff" text-anchor="middle">CHAMOMAKER PRO</text>
+    <text x="580" y="725" font-size="12" font-family="monospace" fill="#76ff03" text-anchor="middle">DIST: 28.4 cm</text>
+    <text x="580" y="750" font-size="12" font-family="monospace" fill="#ffd600" text-anchor="middle">TEMP: 26.5 &deg;C</text>
+    <text x="580" y="775" font-size="11" font-family="monospace" fill="#ff4081" text-anchor="middle">RELE: ACTIVADO</text>
+    <circle cx="540" cy="645" r="7" fill="url(#goldPad)"/>
+    <text x="540" y="660" font-size="8" font-weight="bold" fill="#fff" text-anchor="middle">SCL</text>
+    <circle cx="566" cy="645" r="7" fill="url(#goldPad)"/>
+    <text x="566" y="660" font-size="8" font-weight="bold" fill="#fff" text-anchor="middle">SDA</text>
+    <circle cx="592" cy="645" r="7" fill="url(#goldPad)"/>
+    <text x="592" y="660" font-size="8" font-weight="bold" fill="#fff" text-anchor="middle">VCC</text>
+    <circle cx="618" cy="645" r="7" fill="url(#goldPad)"/>
+    <text x="618" y="660" font-size="8" font-weight="bold" fill="#fff" text-anchor="middle">GND</text>
+    <text x="580" y="815" font-size="11" font-weight="bold" fill="#fff" text-anchor="middle">PANTALLA OLED 0.96" I2C</text>
+  </g>
+  <!-- 5-Button Gaming D-Pad -->
+  <g id="DPad">
+    <rect x="260" y="695" width="170" height="170" rx="12" fill="#000" fill-opacity="0.3" stroke="#29b6f6" stroke-width="1.8"/>
+    <text x="345" y="688" font-size="11" font-weight="bold" fill="#81d4fa" text-anchor="middle">CRUCETA DE JUEGO (D-PAD)</text>
+    <rect x="331" y="721" width="28" height="28" rx="3" fill="#616161" stroke="#fff" stroke-width="1.5"/>
+    <circle cx="345" cy="735" r="8" fill="#e0e0e0"/>
+    <text x="345" y="757" font-size="8" font-weight="bold" fill="#fff" text-anchor="middle">ARRIBA</text>
+    <rect x="331" y="811" width="28" height="28" rx="3" fill="#616161" stroke="#fff" stroke-width="1.5"/>
+    <circle cx="345" cy="825" r="8" fill="#e0e0e0"/>
+    <text x="345" y="847" font-size="8" font-weight="bold" fill="#fff" text-anchor="middle">ABAJO</text>
+    <rect x="286" y="766" width="28" height="28" rx="3" fill="#616161" stroke="#fff" stroke-width="1.5"/>
+    <circle cx="300" cy="780" r="8" fill="#e0e0e0"/>
+    <text x="300" y="802" font-size="8" font-weight="bold" fill="#fff" text-anchor="middle">IZQ</text>
+    <rect x="376" y="766" width="28" height="28" rx="3" fill="#616161" stroke="#fff" stroke-width="1.5"/>
+    <circle cx="390" cy="780" r="8" fill="#e0e0e0"/>
+    <text x="390" y="802" font-size="8" font-weight="bold" fill="#fff" text-anchor="middle">DER</text>
+    <rect x="331" y="766" width="28" height="28" rx="3" fill="#616161" stroke="#fff" stroke-width="1.5"/>
+    <circle cx="345" cy="780" r="8" fill="#e0e0e0"/>
+    <text x="345" y="802" font-size="8" font-weight="bold" fill="#fff" text-anchor="middle">OK</text>
+  </g>
+  <!-- 5V Relay & High-Power Terminal -->
+  <g id="Relay">
+    <rect x="830" y="660" width="115" height="120" rx="5" fill="url(#relayGrad)" stroke="#01579b" stroke-width="2.5" filter="url(#shadow)"/>
+    <text x="887" y="700" font-size="14" font-weight="900" fill="#ffffff" text-anchor="middle">SONGLE</text>
+    <text x="887" y="720" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">10A 250VAC</text>
+    <text x="887" y="738" font-size="10" fill="#e1f5fe" text-anchor="middle">5VDC RELAY</text>
+    <text x="887" y="760" font-size="10" font-weight="bold" fill="#ffeb3b" text-anchor="middle">SRD-05VDC</text>
+    <rect x="830" y="805" width="115" height="75" rx="4" fill="#0277bd" stroke="#01579b" stroke-width="2"/>
+    <circle cx="852" cy="840" r="13" fill="url(#goldPad)"/>
+    <circle cx="852" cy="840" r="8" fill="#333"/>
+    <line x1="845" y1="840" x2="859" y2="840" stroke="#fff" stroke-width="2"/>
+    <text x="852" y="895" font-size="10" font-weight="bold" fill="#fff" text-anchor="middle">NA</text>
+    <circle cx="888" cy="840" r="13" fill="url(#goldPad)"/>
+    <circle cx="888" cy="840" r="8" fill="#333"/>
+    <line x1="881" y1="840" x2="895" y2="840" stroke="#fff" stroke-width="2"/>
+    <text x="888" y="895" font-size="10" font-weight="bold" fill="#fff" text-anchor="middle">COM</text>
+    <circle cx="924" cy="840" r="13" fill="url(#goldPad)"/>
+    <circle cx="924" cy="840" r="8" fill="#333"/>
+    <line x1="917" y1="840" x2="931" y2="840" stroke="#fff" stroke-width="2"/>
+    <text x="924" y="895" font-size="10" font-weight="bold" fill="#fff" text-anchor="middle">NC</text>
+    <text x="887" y="645" font-size="11" font-weight="bold" fill="#29b6f6" text-anchor="middle">RELE 10A (DOMOTICA)</text>
+  </g>
+  <!-- Motor Driver & Terminals -->
+  <g id="TopMotors">
+    <rect x="580" y="65" width="70" height="50" rx="3" fill="#0277bd" stroke="#01579b" stroke-width="2"/>
+    <circle cx="600" cy="90" r="11" fill="url(#goldPad)"/><circle cx="630" cy="90" r="11" fill="url(#goldPad)"/>
+    <text x="615" y="125" font-size="10" font-weight="bold" fill="#fff" text-anchor="middle">MOTOR 1</text>
+    <rect x="660" y="65" width="70" height="50" rx="3" fill="#0277bd" stroke="#01579b" stroke-width="2"/>
+    <circle cx="680" cy="90" r="11" fill="url(#goldPad)"/><circle cx="710" cy="90" r="11" fill="url(#goldPad)"/>
+    <text x="695" y="125" font-size="10" font-weight="bold" fill="#fff" text-anchor="middle">MOTOR 2</text>
+    <rect x="600" y="145" width="80" height="40" rx="2" fill="#212121" stroke="#555"/>
+    <text x="640" y="170" font-size="10" font-weight="bold" fill="#fff" text-anchor="middle">MX1508 DRIVER</text>
+    <rect x="750" y="70" width="30" height="60" rx="2" fill="#212121" stroke="#fff"/>
+    <circle cx="765" cy="82" r="5" fill="url(#goldPad)"/>
+    <circle cx="765" cy="100" r="5" fill="url(#goldPad)"/>
+    <circle cx="765" cy="118" r="5" fill="url(#goldPad)"/>
+    <text x="765" y="140" font-size="9" font-weight="bold" fill="#fff" text-anchor="middle">SERVO</text>
+    <rect x="800" y="70" width="60" height="45" rx="3" fill="#fff" stroke="#999"/>
+    <circle cx="818" cy="92" r="6" fill="url(#goldPad)"/><circle cx="842" cy="92" r="6" fill="url(#goldPad)"/>
+    <text x="830" y="125" font-size="9" font-weight="bold" fill="#fff" text-anchor="middle">BAT (6V)</text>
+    <circle cx="880" cy="90" r="7" fill="#f44336" stroke="#000" stroke-width="1.5"/>
+    <circle cx="900" cy="90" r="7" fill="#2196f3" stroke="#000" stroke-width="1.5"/>
+    <circle cx="920" cy="90" r="7" fill="#4caf50" stroke="#000" stroke-width="1.5"/>
+    <circle cx="940" cy="90" r="7" fill="#ffeb3b" stroke="#000" stroke-width="1.5"/>
+    <text x="910" y="112" font-size="9" fill="#fff" text-anchor="middle">LEDS ESTADO</text>
+  </g>
+  <!-- Sensors & Actuators -->
+  <g id="Sensors_Group">
+    <rect x="65" y="320" width="90" height="250" rx="6" fill="#000" fill-opacity="0.3" stroke="#fff" stroke-width="1.8" stroke-dasharray="4,4"/>
+    <circle cx="110" cy="380" r="34" fill="none" stroke="#fff" stroke-width="2"/>
+    <text x="110" y="386" font-size="14" font-weight="bold" fill="#fff" text-anchor="middle">T</text>
+    <circle cx="110" cy="510" r="34" fill="none" stroke="#fff" stroke-width="2"/>
+    <text x="110" y="516" font-size="14" font-weight="bold" fill="#fff" text-anchor="middle">R</text>
+    <circle cx="110" cy="425" r="6" fill="url(#goldPad)"/><circle cx="110" cy="425" r="3" fill="#000"/>
+    <circle cx="110" cy="445" r="6" fill="url(#goldPad)"/><circle cx="110" cy="445" r="3" fill="#000"/>
+    <circle cx="110" cy="465" r="6" fill="url(#goldPad)"/><circle cx="110" cy="465" r="3" fill="#000"/>
+    <circle cx="110" cy="485" r="6" fill="url(#goldPad)"/><circle cx="110" cy="485" r="3" fill="#000"/>
+    <text x="50" y="450" font-size="10" font-weight="bold" fill="#fff" text-anchor="middle" transform="rotate(-90 50 450)">SENSOR ULTRASONICO</text>
+    <circle cx="140" cy="120" r="32" fill="#212121" stroke="#555" stroke-width="2"/>
+    <circle cx="140" cy="120" r="9" fill="#000"/>
+    <text x="140" y="165" font-size="10" font-weight="bold" fill="#fff" text-anchor="middle">BOCINA / BUZZER</text>
+    <circle cx="270" cy="120" r="16" fill="#e65100" stroke="#ffb74d" stroke-width="1.5"/>
+    <text x="270" y="148" font-size="9" font-weight="bold" fill="#fff" text-anchor="middle">LUZ (LDR)</text>
+    <rect x="330" y="110" width="22" height="16" rx="2" fill="#212121" stroke="#888"/>
+    <text x="341" y="148" font-size="9" font-weight="bold" fill="#fff" text-anchor="middle">TEMP</text>
+    <rect x="390" y="100" width="22" height="32" rx="4" fill="#d4af37" stroke="#996515"/>
+    <text x="401" y="148" font-size="9" font-weight="bold" fill="#fff" text-anchor="middle">INCLINACION</text>
+    <rect x="460" y="100" width="45" height="45" rx="3" fill="#0288d1" stroke="#fff"/>
+    <circle cx="482" cy="122" r="16" fill="#e0e0e0"/><circle cx="482" cy="122" r="6" fill="#d32f2f"/>
+    <text x="482" y="160" font-size="9" font-weight="bold" fill="#fff" text-anchor="middle">POT (VP)</text>
+    <rect x="75" y="810" width="90" height="90" rx="6" fill="#000" fill-opacity="0.3" stroke="#ff9800" stroke-width="1.5"/>
+    <rect x="105" y="835" width="30" height="40" rx="3" fill="#212121" stroke="#fff"/>
+    <circle cx="120" cy="855" r="9" fill="#000" stroke="#ff5722" stroke-width="1.5"/>
+    <text x="120" y="915" font-size="10" font-weight="bold" fill="#ffb74d" text-anchor="middle">RECEPTOR IR (CONTROL)</text>
+  </g>
+</svg>
