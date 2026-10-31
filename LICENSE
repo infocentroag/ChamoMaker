@@ -1,0 +1,16 @@
+# SPDX-FileCopyrightText: 2026 Ismael Rodriguez
+# SPDX-License-Identifier: CERN-OHL-P-2.0
+
+CERN Open Hardware Licence Version 2 - Permissive
+
+Preamble
+--------
+Through this Licence, the Copyright Holder wishes to fund the dissemination and advancement of the Licensed Material.
+
+1. Definitions
+"Licence" means this document.
+"Licensed Material" means the event, schematic, netlist, layout, software, documentation or other material released under the terms of this Licence.
+"Source" means the format preferred for making modifications to the Licensed Material.
+
+2. Permissions
+You may use, copy, modify, distribute, display and perform the Licensed Material, in Source and other forms, provided that You retain this copyright notice and the disclaimer of warranties.
