@@ -1,6 +1,11 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-J_ESP_L,1x15 Female Header,1x15_P2.54mm,37.30mm,58.00mm,90,Top
-J_ESP_R,1x15 Female Header,1x15_P2.54mm,62.70mm,58.00mm,90,Top
+U1,ESP32-WROOM-32E,ESP32-WROOM-32,50.00mm,60.00mm,0,Top
+U3,CH340C,SOP-16,30.00mm,32.00mm,0,Top
+Q1,S8050,SOT-23,25.00mm,42.00mm,0,Top
+Q2,S8050,SOT-23,32.00mm,42.00mm,0,Top
+U4,AMS1117-3.3,SOT-223,15.00mm,22.00mm,0,Top
+C_IN,10uF,0805,10.00mm,22.00mm,90,Top
+C_OUT,10uF,0805,20.00mm,22.00mm,90,Top
 J_OLED,1x4 Female Header,1x04_P2.54mm,18.00mm,94.00mm,0,Top
 R_EC1,1k,0805,81.27mm,88.00mm,90,Top
 R_EC2,2k,0805,84.50mm,88.00mm,90,Top
