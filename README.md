@@ -2,14 +2,14 @@
 
 [![Hardware License](https://img.shields.io/badge/License-CERN--OHL--P-blue.svg)](https://cern.ch/cern-ohl)
 [![Sponsorship](https://img.shields.io/badge/Supported%20By-PCBWay-green.svg)](https://www.pcbway.com)
-[![Web Autana](https://img.shields.io/badge/Web-Autana%20Infocentro-00bcd4.svg)](https://infocentroaguascalientes.com/autana/)
+[![Web Autana](https://img.shields.io/badge/Web-Autana%20Origenbotics-00bcd4.svg)](https://infocentroaguascalientes.com/autana/)
 [![TikTok Origenbotics](https://img.shields.io/badge/TikTok-@origenbotics-ff0050.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@origenbotics)
-[![Organization](https://img.shields.io/badge/Fundaci%C3%B3n-Infocentro%20Venezuela-orange.svg)](https://www.infocentro.gob.ve)
+[![Community](https://img.shields.io/badge/Community-Origenbotics%20STEM-orange.svg)](https://www.tiktok.com/@origenbotics)
 [![MCU](https://img.shields.io/badge/Core-ESP32%20WROOM-red.svg)](https://espressif.com)
 
 **ChamoMaker** es una placa base de desarrollo y robótica educativa basada en el microcontrolador **ESP32 (NodeMCU 30 pines)**, creada específicamente para eliminar la barrera del "cableado espagueti" y protoboards gastados en talleres escolares de ciencia, tecnología, ingeniería y matemáticas (STEM).
 
-Diseñada en Venezuela por el facilitador **Ismael Rodríguez (Fundación Infocentro)** para donación en escuelas públicas y laboratorios comunitarios, con el respaldo y patrocinio de fabricación de **PCBWay**.
+Diseñada en Venezuela por el facilitador **Ismael Rodríguez (la comunidad Origenbotics)** para donación en escuelas públicas y laboratorios comunitarios, con el respaldo y patrocinio de fabricación de **PCBWay**.
 
 ---
 
@@ -135,7 +135,7 @@ La serigrafía frontal de la placa incluye el reconocimiento:
 
 - 🌐 **Plataforma Web del Proyecto:** [infocentroaguascalientes.com/autana](https://infocentroaguascalientes.com/autana/)
 - 📱 **TikTok Oficial (Robótica y Talleres):** [@origenbotics](https://www.tiktok.com/@origenbotics)
-- 🏛️ **Institución Promotora:** Fundación Infocentro (Venezuela)
+- 🏛️ **Institución Promotora:** Comunidad Maker Origenbotics (Venezuela)
 - 🛠️ **Facilitador / Diseñador:** Ismael Rodríguez
 
 ## 📄 Licencia
