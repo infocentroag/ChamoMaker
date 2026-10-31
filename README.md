@@ -15,9 +15,9 @@ Diseñada en Venezuela por el facilitador **Ismael Rodríguez (la comunidad Orig
 
 ## 📸 Renders e Inspección de Pistas de Cobre
 
-| ChamoMaker Ultimate STEM Edition | Render de Referencia | Enrutado Top Copper (.GTL) |
+| Origenbotics KIT (Render Oficial) | Render de Referencia | Enrutado Top Copper (.GTL) |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/infocentroag/ChamoMaker/main/ChamoMaker_Ultimate_3D_render.jpg" width="380" alt="ChamoMaker Ultimate 3D Render" /> | <img src="https://raw.githubusercontent.com/infocentroag/ChamoMaker/main/ChamoMaker_render_original.jpg" width="350" /> | <img src="https://raw.githubusercontent.com/infocentroag/ChamoMaker/main/copper_top_view.svg" width="280" /> |
+| <img src="https://raw.githubusercontent.com/infocentroag/ChamoMaker/main/Origenbotics_KIT_render_nuevo.jpg" width="380" alt="Origenbotics KIT Oficial" /> | <img src="https://raw.githubusercontent.com/infocentroag/ChamoMaker/main/ChamoMaker_render_original.jpg" width="350" /> | <img src="https://raw.githubusercontent.com/infocentroag/ChamoMaker/main/copper_top_view.svg" width="280" /> |
 
 ---
 
