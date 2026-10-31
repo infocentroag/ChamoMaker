@@ -1,0 +1,25 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J_ESP_L,1x15 Female Header,1x15_P2.54mm,37.30mm,58.00mm,90,Top
+J_ESP_R,1x15 Female Header,1x15_P2.54mm,62.70mm,58.00mm,90,Top
+J_OLED,1x4 Female Header,1x04_P2.54mm,18.00mm,94.00mm,0,Top
+R_EC1,1k,0805,81.27mm,88.00mm,90,Top
+R_EC2,2k,0805,84.50mm,88.00mm,90,Top
+J_SONAR,1x4 Female Header,1x04_P2.54mm,80.00mm,94.00mm,0,Top
+U2,MX1508,SOP-16,80.00mm,64.00mm,0,Top
+J_SERVO,1x3 Male Header,1x03_P2.54mm,78.00mm,38.00mm,90,Top
+BZ1,Buzzer 9.5mm,Buzzer_9.5mm,91.00mm,34.00mm,0,Top
+RV1,10k Pot,Trimmer_3P,86.00mm,16.00mm,0,Top
+R_LDR,10k,0805,12.00mm,46.50mm,0,Top
+R_TLT,10k,0805,18.00mm,38.00mm,90,Top
+SW1,Button 6x6,SW_6x6,43.00mm,24.00mm,0,Top
+SW2,Button 6x6,SW_6x6,57.00mm,24.00mm,0,Top
+C_RGB,100nF,0805,54.50mm,33.00mm,90,Top
+LED_RGB,WS2812B,5050,50.00mm,33.00mm,0,Top
+R_RED,330R,0805,67.00mm,16.00mm,90,Top
+R_GRN,330R,0805,74.00mm,16.00mm,90,Top
+R_CC1,5.1k,0805,28.00mm,14.00mm,0,Top
+R_CC2,5.1k,0805,32.00mm,14.00mm,0,Top
+J_USBC,USB-C,USB-C-SMD,30.00mm,7.00mm,0,Top
+D_SCH,SS34 (3A),0805,22.00mm,14.00mm,0,Top
+LED_PWR,AZUL,0805,14.00mm,20.00mm,90,Top
+R_PWR,1k,0805,18.00mm,20.00mm,90,Top
